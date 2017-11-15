@@ -1,0 +1,43 @@
+body{
+	text-align: center;
+	background: gold;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin: 5px;
+  width: 90%;
+  border-radius: 25px;
+  border: 2px solid purple;
+  background: #333;
+  font-size: 24px;
+  color: #ccc;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.eat {
+	float: right;
+}
+
+.image {
+	border: 2px solid purple;
+}
